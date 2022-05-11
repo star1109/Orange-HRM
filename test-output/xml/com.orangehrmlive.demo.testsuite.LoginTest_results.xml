@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sanity"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.372">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldLoginSuccessFully" time="2.372" classname="com.orangehrmlive.demo.testsuite.LoginTest" />
+      
+</testsuite>
